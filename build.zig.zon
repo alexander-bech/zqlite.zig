@@ -2,6 +2,7 @@
   .name = .zqlite,
   .paths = .{""},
   .version = "0.0.0",
+  .minimum_zig_version = "0.16.0-dev.2261+d6b3dd25a",
   .fingerprint = 0x9fb4d74a63da6245,
   .dependencies = .{
   },
